@@ -1,9 +1,0 @@
-mkdir my-new-app
-cd my-new-app
-git init
-cp C:/Users/Dell/New folder/credit/app.py .
-cp C:/Users/Dell/New folder/credit/requirements.txt .
-git add .
-git commit -m "Initial commit for Streamlit deployment"
-git remote add origin https://github.com/Pallavi522/my-new-app.git
-git push -u origin main
